@@ -1,0 +1,2 @@
+com/scotiabankcolpatria/hiring/CreditRiskAssessmentTest.java
+ com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest
